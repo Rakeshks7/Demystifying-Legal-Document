@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv
+.DS_Store
+node_modules/
+dist/
+build/
+*.log
+.ipynb_checkpoints/
+secrets.json
